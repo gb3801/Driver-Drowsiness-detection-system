@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Drowsiness Detection System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+	<h1>SafetyNap.AI</h1>
+    <h2>Drowsiness Detection System</h2>	
+    <div id="output"></div>
+	<div id="buttons">
+		<button id="start" onclick="startDetection()">Start Detection</button>
+	</div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>
