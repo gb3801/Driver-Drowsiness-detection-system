@@ -41,7 +41,7 @@ Press 'q' to exit the application.
 You can adjust the sensitivity of drowsiness detection by changing the thres variable in the drowsiness_detection.py script.
 
 ## Image Output
-![Interface](https://github.com/gb3801/Driver-Drowsiness-detection-system/blob/main/static/car.png)
+![interface](https://github.com/gb3801/Driver-Drowsiness-detection-system/assets/98964593/3364a3ba-f305-44cf-9e2d-7301b80424c2)
 
 ## Disclaimer
 This project is for educational and experimental purposes only. 
