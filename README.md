@@ -44,13 +44,13 @@ You can adjust the sensitivity of drowsiness detection by changing the thres var
 ### 1. Interface
 ![interface](https://github.com/gb3801/Driver-Drowsiness-detection-system/assets/98964593/3364a3ba-f305-44cf-9e2d-7301b80424c2)
 
-### 2. Landmark Predicter
+### 2. Landmark Predictor
 ![Screenshot (24)](https://github.com/gb3801/Driver-Drowsiness-detection-system/assets/98964593/31fe96a7-ef92-45d5-88e4-aea83fb13815)
 
-### 3. Drowsiness Detecter
+### 3. Drowsiness Predictor
 ![Screenshot (25)](https://github.com/gb3801/Driver-Drowsiness-detection-system/assets/98964593/ec3e0baf-f200-4f00-bfcd-abe4cc026a69)
 
-### 4. Result
+### 4. Final Result
 ![Screenshot (26)](https://github.com/gb3801/Driver-Drowsiness-detection-system/assets/98964593/98e47c27-b6bc-4914-b2eb-e1bda77c5c66)
 
 ## Disclaimer
