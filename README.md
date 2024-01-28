@@ -41,7 +41,7 @@ Press 'q' to exit the application.
 You can adjust the sensitivity of drowsiness detection by changing the thres variable in the drowsiness_detection.py script.
 
 ## Image Output
-![Interface](file:///C:/Users/gokul/Pictures/Screenshots/Screenshot%20(19).png)
+![Interface](images/Screenshot%20(19).png)
 
 ## Disclaimer
 This project is for educational and experimental purposes only. 
